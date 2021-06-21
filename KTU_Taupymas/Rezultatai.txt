@@ -1,0 +1,7 @@
+Vaikinai isleido:
+28.00 20.60 25.07 
+Dienos islaidu vidurkis:
+2.80 2.06 2.51
+Vaikinams liko pinigu:
+Simui 72.00; Linui 84.40; Mantui 94.93
+Dienø skaicius, kai vaikinai isleido daugiau uz savo dienos vidurki: 13

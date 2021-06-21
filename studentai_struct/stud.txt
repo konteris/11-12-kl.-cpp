@@ -1,0 +1,6 @@
+5
+Petraitis Petras    1 Ft01    6.1
+Antanaitis Jonas    1 Ft01    7.7
+Jonaitis Antanas    2 Ft02    9.8
+Petraitytė Stasė    2 Ft02    9.1
+Godytė Goda         1 Ft01    9.6

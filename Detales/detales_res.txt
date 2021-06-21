@@ -1,0 +1,26 @@
+Yra K detaliø: 98
+Iğ K detaliø galima sudaryti: 3 komplekt.
+Lieka nepanaudotø: 2
+Yra J detaliø: 100
+Iğ J detaliø galima sudaryti: 2 komplekt.
+Lieka nepanaudotø: 6
+Yra S detaliø: 44
+Iğ S detaliø galima sudaryti: 1 komplekt.
+Lieka nepanaudotø: 19
+Yra V detaliø: 10
+Iğ V detaliø galima sudaryti: 1 komplekt.
+Lieka nepanaudotø: 2
+Iğ viso galima sudaryti pilnø komplektø: 1
+Yra K detaliÅ³: 98
+IÅ¡ K detaliÅ³ galima sudaryti: 3 komplekt.
+Lieka nepanaudotÅ³: 2
+Yra J detaliÅ³: 100
+IÅ¡ J detaliÅ³ galima sudaryti: 2 komplekt.
+Lieka nepanaudotÅ³: 6
+Yra S detaliÅ³: 44
+IÅ¡ S detaliÅ³ galima sudaryti: 1 komplekt.
+Lieka nepanaudotÅ³: 19
+Yra V detaliÅ³: 10
+IÅ¡ V detaliÅ³ galima sudaryti: 1 komplekt.
+Lieka nepanaudotÅ³: 2
+IÅ¡ viso galima sudaryti pilnÅ³ komplektÅ³: 1

@@ -1,0 +1,4 @@
+3
+3 5 6
+
+// Degtukai. Yra n degtukų. Parašykite programą, kuri nustatytų, ar iš tų degtukų galima sudėti bent vieną iš šių figūrų: lygiakraštį trikampį, kvadratą ar stačiakampį. Dėliojamai figūrai turi būti panaudoti visi degtukai; be to, degtukų laužyti negalima.

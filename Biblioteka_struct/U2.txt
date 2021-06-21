@@ -1,0 +1,26 @@
+3
+Vilkaviskis 8
+Krisciunas    Neuroze       5.68
+Krisciunas    Neuroze       5.68
+Krisciunas    Neuroze       5.68
+Venclova      Susitikim     8.24
+Zevakas       Primavera     8.00
+Zevakas       Ragastena     7.99
+Kudirka       Rastai        20.05
+Zevakas       Sidabras      10.20
+Kybartai    9
+Baniulis      Duomenu str   15.20
+Bankhoferis   Svelnioji     19.00
+Londonas      Juru vilkas   7.45
+Pficneris     Didysis lie   13.33
+Pficneris     Didysis lie   13.33
+Vidziunas     Delphi5       18.80
+Sakys         Excel 2002    30.00
+Baniulis      Duomenu str   15.20
+Blonskis      Programavimas 22.02
+Virbalis    5
+Bankhoferis   Svelnioji     19.00
+Zurba         Molzemis      12.20
+Barouzas      Tarzanas      10.00
+Kunas         Senoves gr    9.80
+Kasauskas     Leisk         5.50

@@ -1,0 +1,12 @@
+11
+Tomas Petrauskas 12 5 6 8 9 10 4 7 9 10 4 10 9
+Ignas Siaurusaitis 11 9 10 4 6 5 8 10 9 7 4 10
+Petras Petraitis 10 9 2 5 8 7 10 9 6 10 10
+Martynas Karalius 9 8 2 10 10 9 9 3 6 8
+Lukas Sakalauskas 8 10 10 3 8 9 9 8 7
+Jonas Jonaitis 7 5 5 5 6 9 7 8
+Simonas Arminas 6 8 8 9 10 2 10
+Paulius Kairaitis 5 10 9 8 10 8
+Ignas Paulauskas 4 10 9 8 5
+Motiejus Zdanaitis 3 10 2 9
+Jurgis Niekas 2 10 5

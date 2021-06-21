@@ -1,0 +1,9 @@
+8
+585858 Petraitis Kestas Zaliakalnis -50
+589200 Adomaitis Zigmas Vilijampole +1
+569544 Pleckaite Regina Zaliakalnis +2
+856545 Grumbiene Albina Petrasiunai -10
+788554 Milkaitis Jonas  Vilijampole +40
+784523 Kilbaitis Gintas Petrasiunai -21
+654321 Petraitis Gintas Vilijampole -80
+765943 Zimbolis Vytas   Petrasiunai +10

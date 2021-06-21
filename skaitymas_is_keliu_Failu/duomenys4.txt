@@ -1,0 +1,11 @@
+10
+7 Zalgiris 2
+9 Zalgiris 3
+3 Rytas 1
+10 Zalgiris 2
+3 Rytas 2
+7 Zalgiris 2
+9 Zalgiris 3
+8 Rytas 1
+9 Zalgiris 2
+3 Rytas 2

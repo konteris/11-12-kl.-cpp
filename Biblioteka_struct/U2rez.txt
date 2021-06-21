@@ -1,0 +1,56 @@
+Filialas: Vilkaviskis
+Krisciunas   Neuroze       5.68
+Krisciunas   Neuroze       5.68
+Krisciunas   Neuroze       5.68
+Kudirka      Rastai        20.05
+Venclova     Susitikim     8.24
+Zevakas      Primavera     8.00
+Zevakas      Ragastena     7.99
+Zevakas      Sidabras      10.20
+Filialas: Kybartai   
+Baniulis     Duomenu str   15.20
+Baniulis     Duomenu str   15.20
+Bankhoferis  Svelnioji     19.00
+Blonskis     Programavimas 22.02
+Londonas     Juru vilkas   7.45
+Pficneris    Didysis lie   13.33
+Pficneris    Didysis lie   13.33
+Sakys        Excel 2002    30.00
+Vidziunas    Delphi5       18.80
+Filialas: Virbalis   
+Bankhoferis  Svelnioji     19.00
+Barouzas     Tarzanas      10.00
+Kasauskas    Leisk         5.50
+Kunas        Senoves gr    9.80
+Zurba        Molzemis      12.20
+Vienodø knygø kiekis filialuose:
+Vilkaviskis 3
+Kybartai    4
+Virbalis    0
+ Filialø nesikartojanèiø knygø sàraðas:
+Vilkaviskis: 
+Krisciunas    Neuroze      5.68 3
+Kudirka       Rastai       20.05 1
+Venclova      Susitikim    8.24 1
+Zevakas       Primavera    8.00 1
+Zevakas       Ragastena    7.99 1
+Zevakas       Sidabras     10.20 1
+Kybartai   : 
+Baniulis      Duomenu str  15.20 2
+Bankhoferis   Svelnioji    19.00 1
+Blonskis      Programavimas22.02 1
+Londonas      Juru vilkas  7.45 1
+Pficneris     Didysis lie  13.33 2
+Sakys         Excel 2002   30.00 1
+Vidziunas     Delphi5      18.80 1
+Virbalis   : 
+Bankhoferis   Svelnioji    19.00 1
+Barouzas      Tarzanas     10.00 1
+Kasauskas     Leisk        5.50 1
+Kunas         Senoves gr   9.80 1
+Zurba         Molzemis     12.20 1
+Filialø piniginë knygø vertë:
+Vilkaviskis : 71.52 Eur.
+Kybartai    : 154.33 Eur.
+Virbalis    : 56.50 Eur.
+Centrinës bibliotekos piniginë knygø vertë: 282.35 Eur.

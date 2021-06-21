@@ -1,0 +1,11 @@
+7
+Margis              Petras              
+Batuotas            Algis               
+Barsė               Rita                
+Barsis              Rimas               
+Liepa               Petras              
+Liepa               Rima                
+Liepa               Rita          
+
+//rast vienodus vardus
+      

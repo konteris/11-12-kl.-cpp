@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608538177 source:c:\users\admin\desktop\it\c++\transportas\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+

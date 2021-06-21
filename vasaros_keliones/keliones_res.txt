@@ -1,0 +1,17 @@
+Pirmam draugui tinkamos keliones:
+Kroatija 8 560
+Graikija 12 670
+Vidutine keliones trukme dienomis yra: 10
+Antram draugui tinkamos keliones:
+Kroatija 8 560
+Vidutine keliones trukme dienomis yra: 8
+Treciam draugui tinkamos keliones:
+Italija 10 750
+Prancuzija 12 770
+Kroatija 8 560
+Vokietija 10 730
+Graikija 12 670
+Vidutine keliones trukme dienomis yra: 10
+Visiems draugams tinkamos keliones:
+Kroatija 8 560
+Vidutine keliones trukme dienomis yra: 8

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619710559 source:c:\users\admin\desktop\it\c++\protmusis\main.cpp
+	<iostream>
+	<fstream>
+

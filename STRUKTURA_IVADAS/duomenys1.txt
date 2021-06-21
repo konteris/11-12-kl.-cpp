@@ -1,0 +1,6 @@
+5
+Petras         Petraitis      3 5 7 1
+Laurynas       Kripaitis      2 7 6
+Jonas          Jonaitis       4 5 7 8 7
+Simas          Jomantas       2 7 8
+Laurynas       Laurinaitis    1 8

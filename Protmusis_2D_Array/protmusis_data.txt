@@ -1,0 +1,6 @@
+5 6
+Žalieji 0 0 1 0 1 1
+Mėlynieji 0 0 1 1 0 0
+Raudonieji 1 1 0 0 0 1
+Geltonieji 0 0 0 1 1 1
+Baltieji 0 0 0 0 0 0

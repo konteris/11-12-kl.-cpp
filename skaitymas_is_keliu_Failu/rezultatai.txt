@@ -1,0 +1,57 @@
+10
+7 Zalgiris 2
+9 Zalgiris 3
+3 Rytas 1
+9 Zalgiris 2
+3 Rytas 2
+7 Zalgiris 2
+9 Zalgiris 3
+3 Rytas 1
+9 Zalgiris 2
+3 Rytas 2
+9
+9 Zalgiris 3
+3 Rytas 1
+9 Zalgiris 2
+5 Rytas 2
+10 Zalgiris 2
+9 Zalgiris 3
+3 Rytas 1
+9 Zalgiris 2
+3 Rytas 2
+11
+7 Zalgiris 2
+9 Zalgiris 3
+3 Rytas 1
+9 Zalgiris 2
+12 Rytas 2
+7 Zalgiris 2
+9 Zalgiris 3
+3 Rytas 1
+9 Zalgiris 2
+3 Rytas 2
+3 Rytas 2
+10
+7 Zalgiris 2
+9 Zalgiris 3
+3 Rytas 1
+10 Zalgiris 2
+3 Rytas 2
+7 Zalgiris 2
+9 Zalgiris 3
+8 Rytas 1
+9 Zalgiris 2
+3 Rytas 2
+3
+7 Zalgiris 12
+9 Zalgiris 38
+10 Zalgiris 4
+viso: 54 tðk.
+rezultatyviausias Nr. 9 38 tðk.
+4
+3 Rytas 21
+5 Rytas 2
+12 Rytas 2
+8 Rytas 1
+viso: 26 tðk.
+rezultatyviausias Nr. 3 21 tðk.

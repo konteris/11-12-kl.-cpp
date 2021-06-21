@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621241586 source:c:\users\admin\desktop\it\c++\skaiciavimo_sistemos\main.cpp
+	<iostream>
+	<fstream>
+

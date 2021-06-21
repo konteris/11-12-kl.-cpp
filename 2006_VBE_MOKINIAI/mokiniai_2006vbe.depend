@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610045232 source:c:\users\admin\desktop\it\c++\mokiniai_2006vbe\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+

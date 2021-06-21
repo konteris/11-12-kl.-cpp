@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602232272 source:c:\users\admin\desktop\it\c++\arbuzizai\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

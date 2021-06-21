@@ -1,0 +1,12 @@
+Perskaityti skaiciai:
+   224     1  5172  3140    22
+Visi skaitmenys lyginiai:
+   224     22 
+Didziausia skaitmenų suma lygi    15
+  5172
+Atbulai:
+422
+1
+2715
+413
+22

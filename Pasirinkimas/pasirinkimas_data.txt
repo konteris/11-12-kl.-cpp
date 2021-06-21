@@ -1,0 +1,6 @@
+5 60
+Lietuvių 60 25
+Matematika 60 27
+Informatika 35 15
+Anglų 45 12
+Istorija 40 30

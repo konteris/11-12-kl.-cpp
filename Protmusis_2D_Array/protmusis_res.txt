@@ -1,0 +1,7 @@
+VISOS KOMANDOS:
+Žalieji 3 3
+Mėlynieji 2 4
+Raudonieji 3 3
+Geltonieji 3 3
+Baltieji 0 6
+GERIAUSIOS KOMANDOS: n�ra

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583939092 source:c:\users\admin\desktop\programming\c++\pitagoro skaièiai\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

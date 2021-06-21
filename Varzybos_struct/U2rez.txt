@@ -1,0 +1,13 @@
+PAGRINDINIS SĄRAŠAS
+1. Kasnauskas Aidas     40 Šaunioji mokykla
+2. Onaitis Kipras       40 Puikioji mokykla
+3. Vilčinskas Vilius   39 Šaunioji mokykla
+4. Kontauskas Julius    37 Puikioji mokykla
+5. Vaitkauskas Gytis    36 Gražioji mokykla
+6. Irminaitis Kipras    35 Puikioji mokykla
+7. Jonaitis Vilius      35 Šaunioji mokykla
+8. Kalkauskis Robertas  31 Gražioji mokykla
+9. Dainauskas Pijus     29 Gražioji mokykla
+PAPILDOMAS SĄRAŠAS
+Paulauskas Rokas     34 Šaunioji mokykla
+Narutauskas Tadas    31 Puikioji mokykla

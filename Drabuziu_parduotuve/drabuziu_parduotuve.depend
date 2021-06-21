@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618910705 source:c:\users\admin\desktop\it\c++\drabuziu_parduotuve\main.cpp
+	<iostream>
+	<fstream>
+

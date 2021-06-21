@@ -1,0 +1,19 @@
+3
+Šaunioji mokykla
+4
+Jonaitis Vilius     35
+Paulauskas Rokas    34
+Kasnauskas Aidas    40
+Vilčinskas Vilius   39
+Puikioji mokykla
+5
+Irminaitis Kipras   35
+Paliukaitis Vytas   24
+Narutauskas Tadas   31
+Kontauskas Julius   37
+Onaitis Kipras      40
+Gražioji mokykla
+3
+Vaitkauskas Gytis   36
+Dainauskas Pijus    29
+Kalkauskis Robertas 31

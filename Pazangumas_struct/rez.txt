@@ -1,0 +1,11 @@
+Jonas     Jonaitis        6.43
+Motiejus  Zdanaitis       7.00
+Martynas  Karalius        7.22
+Ignas     Siaurusaitis    7.45
+Jurgis    Niekas          7.50
+Tomas     Petrauskas      7.58
+Petras    Petraitis       7.60
+Simonas   Arminas         7.83
+Lukas     Sakalauskas     8.00
+Ignas     Paulauskas      8.00
+Paulius   Kairaitis       9.00

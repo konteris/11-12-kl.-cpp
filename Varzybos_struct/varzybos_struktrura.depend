@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612261451 source:c:\users\admin\desktop\it\c++\varzybos_struktrura\main.cpp
+	<iostream>
+	<fstream>
+

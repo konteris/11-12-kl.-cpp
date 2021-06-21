@@ -1,0 +1,7 @@
+Plotai ir perimetrai: 
+Plotas 30 Perimetras 22
+Plotas 90 Perimetras 38
+Bendras plotas 120
+Bendras perimetras 60
+Max plotas 90
+Min plotas 30

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606464533 source:c:\users\admin\desktop\it\c++\ledai_struktura\main.cpp
+	<iostream>
+	<fstream>
+

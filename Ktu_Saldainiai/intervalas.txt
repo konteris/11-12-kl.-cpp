@@ -1,0 +1,3 @@
+10 30
+
+//Saldainių maišelis kainuoja a eurų. Kiekviename maišelyje yra kuponas. Už tris kuponus galima gauti nemokamai vieną tokį saldainių maišelį. Saldainius už kuponus galima pirkti 3 kartus. Kiek daugiausia galima gauti saldainių maišelių už b eurų? Pradiniai duomenys yra sveikojo tipo.
