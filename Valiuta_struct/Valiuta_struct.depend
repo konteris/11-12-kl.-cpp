@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1633621944 source:c:\users\admin\desktop\cpp\valiuta_struct\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<math.h>
+	<cmath>
+

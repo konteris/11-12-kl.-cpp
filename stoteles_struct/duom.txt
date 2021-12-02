@@ -1,0 +1,8 @@
+7
+Saules         7 3 4 7 8 12 15 16
+Studentu       7 4 10 11 12 17 18 20
+Sporto         5 3 4 12 13 15
+Gedimino       7 6 7 10 12 17 20 25
+Daukanto       6 6 7 10 12 17 20
+Maironio       5 7 10 12 17 20
+Birstono       7 2 3 6 12 13 17 20

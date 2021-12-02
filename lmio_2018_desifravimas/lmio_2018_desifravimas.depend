@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634313543 source:c:\users\admin\desktop\cpp\lmio_2018_desifravimas\main.cpp
+	<iostream>
+	<fstream>
+
