@@ -1,0 +1,15 @@
+3
+Ankstenai
+3 25 11
+Gobsuolis  1
+Pazadutis  6
+Teisuole   3
+Striukuva
+2 20 7
+Drasuole   4
+Grazuolis  3
+Trumpmiestis
+3 25 9
+Naivuole   4
+Pagyrunas  3
+Snaudale   2

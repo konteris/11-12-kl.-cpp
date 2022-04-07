@@ -1,18 +1,27 @@
 #include <iostream>
 
 using namespace std;
-
-int suma(int x, int y)
+// Pirma pamoka apie templates ir STL sablonu biblioteka.
+template <typename T>
+T suma(T x, T y)
 {
     return x+y;
 }
 
-int main()
+template <typename T, typename Tresult> //typename gali but ir skaiciai
+Tresult Avg(T a, T b)
 {
-    cout<<suma(6,9);
-    return 0;
+    return (a+b)/(Tresult)2;
+
 }
 // int suma(int x, int y)
 // {
 //     return x+y;
 // }
+
+int main()
+{
+    cout<<suma<float>(6.6,9.2)<<endl;
+    cout<<Avg<int, float>(8,9);
+    return 0;
+}
