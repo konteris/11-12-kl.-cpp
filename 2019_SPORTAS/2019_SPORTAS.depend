@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654889064 source:c:\users\admin\desktop\cpp\2019_sportas\main.cpp
+	<iostream>
+	<fstream>
+

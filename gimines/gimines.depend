@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652800754 source:c:\users\admin\desktop\cpp\gimines\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iostream>
+	<fstream>
+	<string>
+

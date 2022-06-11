@@ -1,0 +1,7 @@
+Pirmos grupës marðrutai:
+7 25 3800
+10 42 3510
+Antros grupës marðrutai:
+5 14 1800
+6A 12 2800
+10A 15 1640

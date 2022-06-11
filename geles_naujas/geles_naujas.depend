@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654940652 source:c:\users\admin\desktop\cpp\geles_naujas\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,20 @@
+Uþregistruota terðalø per metus
+2007 68430.5
+2008 67072.6
+2009 60982.0
+2010 60456.8
+2011 63747.5
+2012 61026.9
+2013 57045.0
+2014 53005.7
+Surikiuotas sàraðas
+Anglies monoksidas            150038.3
+Organiniai junginiai          121152.0
+Sieros dioksidas              120631.3
+Azoto oksidai                 77336.9
+Fluoras ir kiti               22608.5
+Sàraðas paðalinus 1 elementà
+Organiniai junginiai          121152.0
+Sieros dioksidas              120631.3
+Azoto oksidai                 77336.9
+Fluoras ir kiti               22608.5
